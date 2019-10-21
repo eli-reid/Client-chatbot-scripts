@@ -1,0 +1,54 @@
+body {
+    font-family: Abel;
+    padding: 0 10%;
+    width: 300px;
+}
+#donation_container{
+       
+}
+#title{   
+    text-align: center; 
+}
+#background{
+          
+    background-color: grey;
+    border:1px;
+    border-style: double;
+    
+  
+    position: relative;
+    -moz-box-shadow:    inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow:         inset 0 0 10px #000000;
+}
+#footer{
+    
+}
+#progress{
+    
+    -moz-box-shadow:    inset 0 0 10px #000000;
+    -webkit-box-shadow: inset 0 0 10px #000000;
+    box-shadow:         inset 0 0 10px #000000;
+   
+}
+#progress p { 
+    font-weight: 900;
+    position: absolute;
+    text-align: center; 
+    width: 100%; 
+    margin: 0;
+    line-height: 50px; 
+}
+#total{
+    alignment-adjust: after-edge;
+}
+#day{
+    text-align: center;
+}
+.right {
+  right: 0px;
+  padding: 10px;
+}
+
+
+
