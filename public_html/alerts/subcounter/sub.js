@@ -14,8 +14,8 @@ function connectWebsocket() {
     
     socket.onopen = function () {
         var auth = {
-            author: "Edog0049a",
-            website: "edog0049a.com",
+            author: "Eli Reid",
+            website: "elireid.com",
             api_key: API_Key,
             events: [
                 "EVENT_SUB",
